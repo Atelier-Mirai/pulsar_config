@@ -37,7 +37,15 @@
           <link rel="stylesheet" href="stylesheets/master.css">
         </head>
         <body>
-          $1
+          <header>
+            $1
+          </header>
+
+          <main>
+          </main>
+
+          <footer>
+          </footer>
         </body>
       </html>
     """
